@@ -1,0 +1,5 @@
+com\mycompany\sales\JakartaRestConfiguration.class
+com\mycompany\sales\resources\JakartaEE8Resource.class
+com\myapp\servlet\OrderServlet.class
+com\myapp\servlet\CustomerServlet.class
+com\myapp\servlet\SalesmanServlet.class
